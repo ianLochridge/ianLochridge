@@ -1,4 +1,4 @@
-- Hi, I’m @ianLochridge, a computer science student in highschool, class of 2026. 
-- Reach me at ianlochridge1@gmail.com
+- Hi, I’m @ianLochridge, a hs student, class of 26'
+- Reach me at ian@lochridge.us
 
 
