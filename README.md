@@ -1,4 +1,4 @@
-Highschool student, class of 26'
+University of Arizona, Computer Science 
 - Reach me at ian@lochridge.us
 
 
